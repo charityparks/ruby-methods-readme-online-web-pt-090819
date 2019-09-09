@@ -1,1 +1,1 @@
-"ruby lib
+"ruby lib/example.rb`
